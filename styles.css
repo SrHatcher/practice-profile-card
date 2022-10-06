@@ -73,6 +73,7 @@ main{
     background-color: white;
     border-radius: 1.5rem;
     overflow: hidden;
+    box-shadow: 0 0 3rem 0.1rem rgba(0, 0, 0, 0.274);
 }
 
 .card__background{
